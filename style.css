@@ -52,6 +52,8 @@ color: #fff761;
 font-size: 20px;
 letter-spacing: 2px;
 
+
+
 }
  
 .wrapper {
@@ -95,6 +97,7 @@ button {
     color: gold;
     font-size: 25px;
     font-weight: 700;
+    margin-bottom: 10px;
 }
  
 .tip {
@@ -104,6 +107,18 @@ button {
     text-align: center;
     font-size: 18px;
     display: none;
+}
+.pay{
+    color: gold;
+    margin-top: -5px;
+    margin-bottom: 10px;
+    font-size: 25px;
+    font-weight: 700;
+    
+}
+
+#totalAmount{
+margin-bottom: 10px;
 }
 
 /* ========================================================================================== */
@@ -237,18 +252,18 @@ button {
     font-size: 18px;
     display: none;
 }
+.pay{
+    color: gold;
+    margin-top: -5px;
+    margin-bottom: 10px;
+    font-size: 22px;
+    font-weight: 700;
+    
+}
 }
 
 
 /* ========================================================================= */
-
-
-
-
-
-
-
-
 
 
 @media only screen and (max-width:263px ){
@@ -299,9 +314,6 @@ button{
 
 /* ============================================================= */
 
-
-
-
 @media only screen and (max-width:180px ){
     h1{
         position: absolute;
@@ -346,8 +358,21 @@ button{
         border-radius: 25px;
         cursor: pointer;
     }
+    .pay{
+        color: gold;
+        margin-top: -5px;
+        margin-bottom: 10px;
+        font-size: 20px;
+        font-weight: 700;
+        
+    }
    
 }
+
+/* ======================================================= */
+
+
+
 @media only screen and (max-width:109px ){
     h1{
         position: absolute;
@@ -388,6 +413,14 @@ button{
             border: none;
             border-radius: 25px;
             cursor: pointer;
+        }
+        .pay{
+            color: gold;
+            margin-top: -5px;
+            margin-bottom: 10px;
+            font-size: 15px;
+            font-weight: 700;
+            
         }
          
 }
