@@ -9,8 +9,8 @@ Firslty,I could not able to think which method i should have to use or which eve
 
 Submission of project:
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-I completed this project on 24th august 2022.it was not my target,but it feels good because i have completed my project before the deadline which is 31st august.
+I completed this project on 23th Sept 2022.it was not my target,but it feels good because i have completed my project before my own decided deadline.
 
 Feeling after completion:
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-This is my 1st project by adding some basic JavaScript . it was great feeling for me because,i have cleared my all the basic knowledge about the objects and events inside the javascript, which i have used inside the project.THANK YOU!
+This is my 1st project by adding some basic JavaScript.it was great feeling for me because,i have cleared my all the basic knowledge about the objects and events inside the javascript, which i have used inside the project.THANK YOU!
